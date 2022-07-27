@@ -5,4 +5,9 @@ Created on Wed Jul 27 13:12:24 2022
 @author: matt4
 """
 
-print("I hate this")
+A = 20
+B = -10
+
+C= A+B
+
+print (C)
